@@ -1,0 +1,17 @@
+asvetliakov.vscode-neovim
+drcika.apc-extension
+VSpaceCode.whichkey
+amodio.toggle-excluded-files
+
+// theme
+Equinusocio.moxer-icons
+DaltonMenezes.aura-theme
+
+// fonts
+https://fontsource.org/fonts/geist-mono
+https://www.jetbrains.com/lp/mono/#:~:text=JetBrains%20Mono%20typeface%20is%20available%20under
+
+davidlgoldberg.jumpy2
+pustelto.bracketeer
+rsbondi.highlight-words
+volcanicbytes.occurrences-jumper
